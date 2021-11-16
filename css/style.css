@@ -16,9 +16,23 @@ body {
 #contact {
   z-index: 1000;
 }
+.contenu{
+  position: relative;
+  width: 100%;
+}
 
+.navbar-light{
+background-color: rgb(37, 45, 155);
 
-
+}
+.caption{
+  
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  display:inline-block ;
+  text-align: center;
+}
 /*============= FOOTER =============*/
 
 
