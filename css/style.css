@@ -22,7 +22,7 @@ body {
 }
 
 .navbar-light{
-background-color: rgb(37, 45, 155);
+background-color: rgb(250, 63, 6);
 
 }
 .caption{
@@ -34,7 +34,20 @@ background-color: rgb(37, 45, 155);
   text-align: center;
 }
 /*============= FOOTER =============*/
+ul.social{
+  list-style-type: none;
+  max-width: 16rem;
+  margin: 0 auto;
 
+}
+i{
+  font-size: 2rem;
+  color: white;
+}
+i:hover{
+  font-size: 2rem;
+  color: red;
+}
 
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
